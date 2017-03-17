@@ -36,6 +36,6 @@ el foro conformado por las cinco principales oficinas nacionales de propiedad in
 4. the State Intellectual Property Office of the People's Republic of China (SIPO) http://english.sipo.gov.cn/
 5. the United States Patent and Trademark Office (USPTO) http://www.uspto.gov/
  
-
-
+## Libro digital sobre redaccin de patentes
+http://www.fishiplaw.com/chapter-5-claiming-strategies 
 
