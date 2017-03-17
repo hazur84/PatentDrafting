@@ -32,7 +32,7 @@ el foro conformado por las cinco principales oficinas nacionales de propiedad in
 
 1. the European Patent Office (EPO) http://www.epo.org/
 2. the Japan Patent Office (JPO) http://www.jpo.go.jp/index.htm
-3. the Korean Intellectual Property Office (KIPO) the Korean Intellectual Property Office (KIPO)
+3. the Korean Intellectual Property Office (KIPO) the Korean Intellectual Property Office (KIPO) http://www.kipo.go.kr/kpo/user.tdf?a=user.english.main.BoardApp&c=1001
 4. the State Intellectual Property Office of the People's Republic of China (SIPO) http://english.sipo.gov.cn/
 5. the United States Patent and Trademark Office (USPTO) http://www.uspto.gov/
  
