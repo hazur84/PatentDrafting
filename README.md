@@ -51,4 +51,7 @@ Software Patents
 Description: Reading notes from the full text of Software Patents, 2nd Ed. (Stobbs).
 http://www.djstein.com/IP/Files/Software%20Patents.pdf
 
+## Material de la Oficina de Patentes Europea
 
+### Guidelines for Examination in the European Patent Office
+http://www.epo.org/law-practice/legal-texts/guidelines.html 
