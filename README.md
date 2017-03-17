@@ -38,8 +38,17 @@ El foro conformado por las cinco principales oficinas nacionales de propiedad in
  
 ## Libro digital sobre redacción de patentes
 http://www.fishiplaw.com/resources/strategic-patenting
-
 A Comprehensive Guide For Everyone Involved In The World Of Patenting
 
+http://www.djstein.com/ip/
+
 ## Escribiendo Reivindicaciones
-Landis on Mechanics of Patent Claim Drafting
+Landis on Mechanics of Patent Claim Drafting 
+Description: Reading notes from the full text of Landis on How to Write a Patent Application, 5th Ed. (Faber).
+http://www.djstein.com/IP/Files/Landis%20on%20Mechanics%20of%20Patent%20Claim%20Drafting.pdf
+
+Software Patents
+Description: Reading notes from the full text of Software Patents, 2nd Ed. (Stobbs).
+http://www.djstein.com/IP/Files/Software%20Patents.pdf
+
+
