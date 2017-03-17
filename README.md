@@ -41,3 +41,5 @@ http://www.fishiplaw.com/resources/strategic-patenting
 
 A Comprehensive Guide For Everyone Involved In The World Of Patenting
 
+##Escribiendo Reivindicaciones
+Landis on Mechanics of Patent Claim Drafting
