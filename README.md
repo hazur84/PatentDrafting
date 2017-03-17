@@ -20,3 +20,8 @@ La redacción de patentes requiere del dominio de un campo técnico de conocimie
 
 1. Elaborción de figuras: Adobe, OmniGraffle, Inkscape entre otros.
 1. Redacción del documento: Microsoft Office, Libre Office.
+
+
+## Búsquedas en el estado de la técnica
+
+Clasificación Internacional de Patentes, en la siguiente liga se da una explicación y acceso a un buscador de cdigos CIP. http://cip.oepm.es/
