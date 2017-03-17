@@ -28,7 +28,7 @@ Clasificación Internacional de Patentes, en la siguiente liga se da una explica
 
 ## Principales oficinas nacionales de Propiedad Intelectual (PI)
 
-el foro conformado por las cinco principales oficinas nacionales de propiedad intelectual en el mundo denominado (IP5) se encarga de proponer mecanismos que mejoren la eficiencia en el proceso de examinación de las patentes. Estas 5 oficinas concentran el 80% de trámites de patentes en el mundo y el 95% de todo el trabajo realizado en virtud del Tratado de Coperacin de Patentes (PCT). Los miembros de IP5 son:
+El foro conformado por las cinco principales oficinas nacionales de propiedad intelectual en el mundo denominado (IP5) se encarga de proponer mecanismos que mejoren la eficiencia en el proceso de examinación de las patentes. Estas 5 oficinas concentran el 80% de trámites de patentes en el mundo y el 95% de todo el trabajo realizado en virtud del Tratado de Coperación de Patentes (PCT). Los miembros de IP5 son:
 
 1. the European Patent Office (EPO) http://www.epo.org/
 2. the Japan Patent Office (JPO) http://www.jpo.go.jp/index.htm
@@ -36,6 +36,8 @@ el foro conformado por las cinco principales oficinas nacionales de propiedad in
 4. the State Intellectual Property Office of the People's Republic of China (SIPO) http://english.sipo.gov.cn/
 5. the United States Patent and Trademark Office (USPTO) http://www.uspto.gov/
  
-## Libro digital sobre redaccin de patentes
-http://www.fishiplaw.com/chapter-5-claiming-strategies 
+## Libro digital sobre redacción de patentes
+http://www.fishiplaw.com/resources/strategic-patenting
+
+A Comprehensive Guide For Everyone Involved In The World Of Patenting
 
