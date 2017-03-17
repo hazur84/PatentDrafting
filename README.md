@@ -26,7 +26,7 @@ La redacción de patentes requiere del dominio de un campo técnico de conocimie
 
 Clasificación Internacional de Patentes, en la siguiente liga se da una explicación y acceso a un buscador de cdigos CIP. http://cip.oepm.es/
 
-## Principales oficnas nacionales de Propiedad Intelectual (PI)
+## Principales oficinas nacionales de Propiedad Intelectual (PI)
 
 el foro conformado por las cinco principales oficinas nacionales de propiedad intelectual en el mundo denominado (IP5) se encarga de proponer mecanismos que mejoren la eficiencia en el proceso de examinación de las patentes. Estas 5 oficinas concentran el 80% de trámites de patentes en el mundo y el 95% de todo el trabajo realizado en virtud del Tratado de Coperacin de Patentes (PCT). Los miembros de IP5 son:
 
