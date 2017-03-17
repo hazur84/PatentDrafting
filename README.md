@@ -1,6 +1,6 @@
 # PatentDrafting
 
-El presente repositorio tiene el objetivo de poner a disposicin de forma pública, herramientas que ayuden a la elaboraión de la memoria técnica de una solicitud de patente. Estas herramientas se componen principalmente de publicaciones en formato pdf y esta dividia en tres bloques: 1) marco normativo sobre propiedad industrial, 3) literatura sobre la redacción de memoria técnica y 3)software utilizado en la elaboración de la memoria técnica.
+El presente repositorio tiene el objetivo de poner a disposición herramientas que ayuden a la elaboraión de la memoria técnica de una solicitud de patente. Estas herramientas se componen principalmente de publicaciones en formato pdf y esta dividia en tres bloques: 1) marco normativo sobre propiedad industrial, 3) literatura sobre la redacción de memoria técnica y 3)software utilizado en la elaboración de la memoria técnica.
 
 ## Marco Normativo Internacional
 
