@@ -4,13 +4,14 @@ El presente repositorio tiene el objetivo de poner a disposición herramientas q
 
 ## Marco Normativo Internacional
 
-1. Convenio de París
-1. Reglamento del Tratado de Coperación de Patentes (PCT)
+1. Arreglo de Estrasburgo relativo a la Clasificación Internacional de Patentes. http://www.wipo.int/treaties/es/classification/strasbourg/index.html 
+1. Convenio de París http://www.wipo.int/treaties/es/ip/paris/
+1. Reglamento del Tratado de Coperación de Patentes (PCT) http://www.wipo.int/treaties/es/registration/pct/
 
 ## Marco Normativo de México
 
-1. Ley de Propiedad Industrial
-1. Reglamento de la Ley de Propiedad Industrial
+1. Ley de Propiedad Industrial (DOF 01-06-2016) http://www.diputados.gob.mx/LeyesBiblio/pdf/50_010616.pdf
+1. Reglamento de la Ley de Propiedad Industrial (16-12-2016) http://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPI_161216.pdf
 
 ## Literatura fundamental para la redacción de patentes y demás figuras de propiedad industrial.
 
@@ -18,8 +19,11 @@ La redacción de patentes requiere del dominio de un campo técnico de conocimie
 
 ## Software
 
-1. Elaboración de figuras: Adobe, OmniGraffle, Inkscape entre otros.
-1. Redacción del documento: Microsoft Office, Libre Office.
+1. Procesamiento de texto: Microsoft Office (WIN y MAC), Libre Office (WIN, MAC Y GNU/Linux).
+1. Diseño de figuras: Adobe Photoshop o Illustrator (Win y MAC), OmniGraffle (MAC OS), Inkscape (WIN, MAC, GNU/Linux).
+
+### Presentación de las figuras
+Se recomienda utilizar archivos de gráficos vectorizados (svg o png) con fondo transparente con una resolución de 300dpi, estas recomendaciones garantizan una buena calidad en las figuras evitando que se vean pixeladas. Por lo general se coloca una o dos figuras por hoja.
 
 ## Búsquedas en el estado de la técnica
 
