@@ -14,19 +14,27 @@ El presente repositorio tiene el objetivo de poner a disposición herramientas q
 
 ## Literatura fundamental para la redacción de patentes y demás figuras de propiedad industrial.
 
-La redacción de patentes requiere del dominio de un campo técnico de conocimiento,  para el caso de Mecánica, Eléctrica y Biómedica mi recomendación es que se familiarice con la obra de Feynman, su obra etá diponible de forma libre albergada por la universidad de Caltech en la siguiente liga: http://www.feynmanlectures.caltech.edu/
+La redacción de patentes requiere del dominio de un campo técnico de conocimiento,  para el caso de Mecánica, Eléctrica y Biómedica mi recomendación es que se familiarice con la obra de Feynman, su obra está diponible de forma libre albergada por la universidad de Caltech en la siguiente liga: http://www.feynmanlectures.caltech.edu/
 
 ## Software
 
-1. Elaborción de figuras: Adobe, OmniGraffle, Inkscape entre otros.
+1. Elaboración de figuras: Adobe, OmniGraffle, Inkscape entre otros.
 1. Redacción del documento: Microsoft Office, Libre Office.
-
 
 ## Búsquedas en el estado de la técnica
 
-Clasificación Internacional de Patentes, en la siguiente liga se da una explicación y acceso a un buscador de cdigos CIP. http://cip.oepm.es/
+El método propuesto se compone de los siguientes pasos:
 
-Google Patentes https://www.google.es/advanced_patent_search
+1. Identificar el código CIP relacionado o cercano a la invención.
+La Clasificación Internacional de Patentes, en la siguiente liga se da una explicación y acceso a un buscador de códigos CIP. http://cip.oepm.es/
+
+2. Recupar documentos de patente en los siguientes buscadores de patentes.
+
+Google Patents https://www.google.es/advanced_patent_search
+
+The Lens https://www.lens.org/lens/
+
+Espacenet Patent Search https://worldwide.espacenet.com/advancedSearch?locale=en_EP
 
 ## Principales oficinas nacionales de Propiedad Intelectual (PI)
 
@@ -49,7 +57,7 @@ Landis on Mechanics of Patent Claim Drafting
 Description: Reading notes from the full text of Landis on How to Write a Patent Application, 5th Ed. (Faber).
 http://www.djstein.com/IP/Files/Landis%20on%20Mechanics%20of%20Patent%20Claim%20Drafting.pdf
 
-Software Patents
+## Invenciones Implementadas por Computadora
 Description: Reading notes from the full text of Software Patents, 2nd Ed. (Stobbs).
 http://www.djstein.com/IP/Files/Software%20Patents.pdf
 
