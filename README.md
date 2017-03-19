@@ -28,8 +28,9 @@ La redacción de patentes requiere del dominio de un campo técnico de conocimie
     1. Adobe Photoshop o Illustrator (Win y Mac), http://www.adobe.com/mx/products/catalog.html ,
     1. OmniGraffle (Mac), https://www.omnigroup.com/omnigraffle ,
     1. Inkscape (Win, Mac, GNU/Linux) https://inkscape.org ,
-        Curso sugerido: http://www.creatorsstudio.org/inkscape.html
+       Curso sugerido: http://www.creatorsstudio.org/inkscape.html
     1. Gimp (Win, Mac, GNU/Linux) https://www.gimp.org ,
+       Curso de Certificación: http://www.vskills.in/certification/Design/GIMP-Designer-Certification
 
 ### Presentación de las figuras
 Se recomienda utilizar archivos de gráficos vectorizados (svg o png) con fondo transparente con una resolución de 300dpi, estas recomendaciones garantizan una buena calidad en las figuras evitando que se vean pixeladas. Por lo general se coloca una o dos figuras por hoja.
