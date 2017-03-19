@@ -26,7 +26,7 @@ La redacción de patentes requiere del dominio de un campo técnico de conocimie
 
 Clasificación Internacional de Patentes, en la siguiente liga se da una explicación y acceso a un buscador de cdigos CIP. http://cip.oepm.es/
 
-Google Patentes https://www.google.es/advanced_search
+Google Patentes https://www.google.es/advanced_patent_search
 
 ## Principales oficinas nacionales de Propiedad Intelectual (PI)
 
