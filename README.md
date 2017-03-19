@@ -24,10 +24,12 @@ La redacción de patentes requiere del dominio de un campo técnico de conocimie
     1. Libre Office (WIN, MAC Y GNU/Linux).
     
 1. Diseño de figuras: 
-    1. Adobe Photoshop o Illustrator (Win y MAC), http://www.adobe.com/mx/products/catalog.html ,
-    1. OmniGraffle (MAC OS), https://www.omnigroup.com/omnigraffle ,
-    1. Inkscape (WIN, MAC, GNU/Linux) https://inkscape.org ,
-    1. Gimp (WIN, MAC, GNU/Linux) https://www.gimp.org ,
+    1. Microsoft Visio (Win), http://microsoft.office.com/visio ,
+    1. Adobe Photoshop o Illustrator (Win y Mac), http://www.adobe.com/mx/products/catalog.html ,
+    1. OmniGraffle (Mac), https://www.omnigroup.com/omnigraffle ,
+    1. Inkscape (Win, Mac, GNU/Linux) https://inkscape.org ,
+        Curso sugerido: http://www.creatorsstudio.org/inkscape.html
+    1. Gimp (Win, Mac, GNU/Linux) https://www.gimp.org ,
 
 ### Presentación de las figuras
 Se recomienda utilizar archivos de gráficos vectorizados (svg o png) con fondo transparente con una resolución de 300dpi, estas recomendaciones garantizan una buena calidad en las figuras evitando que se vean pixeladas. Por lo general se coloca una o dos figuras por hoja.
