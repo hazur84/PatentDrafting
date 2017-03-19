@@ -5,7 +5,7 @@ El presente repositorio tiene el objetivo de poner a disposición herramientas q
 ## Marco Normativo Internacional
 
 1. Convenio de París
-1. Reglamendo del Tratado de Coperación de Patentes (PCT)
+1. Reglamento del Tratado de Coperación de Patentes (PCT)
 
 ## Marco Normativo de México
 
@@ -25,6 +25,8 @@ La redacción de patentes requiere del dominio de un campo técnico de conocimie
 ## Búsquedas en el estado de la técnica
 
 Clasificación Internacional de Patentes, en la siguiente liga se da una explicación y acceso a un buscador de cdigos CIP. http://cip.oepm.es/
+
+Google Patentes https://www.google.es/advanced_search
 
 ## Principales oficinas nacionales de Propiedad Intelectual (PI)
 
